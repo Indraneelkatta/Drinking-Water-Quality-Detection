@@ -1,0 +1,14 @@
+.open wqual1
+
+
+CREATE TABLE qfacts
+(
+sid varchar(6) NOT NULL,
+s1 char(6),s2 char(6),s3 char(6),s4 char(6),s5 char(6),s6 char(6)
+);
+
+CREATE TABLE rfacts
+(
+pid varchar(6) NOT NULL,
+s1 char(8),s2 char(8),s3 char(8),s4 char(8),s5 char(8),s6 char(8),s7 char(8),s8 char(8),s9 char(8),s10 char(8),s11 char(8),s12 char(8)
+);
